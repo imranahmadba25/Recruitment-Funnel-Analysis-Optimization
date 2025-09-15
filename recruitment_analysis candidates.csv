@@ -1,0 +1,151 @@
+candidate_id,candidate_name,role_applied,source,stage,status,location,application_date,offer_date,join_date,time_to_fill_days,current_salary,expected_salary
+CAND001,"Amit Sharma","ServiceNow ITOM Developer",LinkedIn,Offer,Declined,Mumbai,2025-01-15,2025-01-31,NULL,NULL,650000,900000
+CAND002,"Priya Nair","ServiceNow ITSM Developer","Job Portal",Applied,N/A,"Delhi NCR",2025-01-15,NULL,NULL,NULL,480000,700000
+CAND003,"Rohan Mehta","ServiceNow ITSM Developer","Job Portal",Drop-off,Declined,Bangalore,2025-01-02,NULL,NULL,NULL,520000,800000
+CAND004,"Sneha Gupta","ServiceNow CMDB Developer","Job Portal",Drop-off,Declined,Mumbai,2025-01-12,NULL,NULL,NULL,600000,850000
+CAND005,"Arjun Kumar","ServiceNow BA","Job Portal",Interview,N/A,Hyderabad,2025-01-08,NULL,NULL,NULL,550000,750000
+CAND006,"Neha Verma","ServiceNow Presales",LinkedIn,Shortlisted,N/A,Mumbai,2025-01-01,NULL,NULL,NULL,500000,720000
+CAND007,"Sandeep Rao","AWS Engineer","Job Portal",Applied,N/A,Pune,2025-01-06,NULL,NULL,NULL,700000,1000000
+CAND008,"Divya Joshi","Devops Engineer","Job Portal",Shortlisted,N/A,Bangalore,2025-01-07,NULL,NULL,NULL,680000,950000
+CAND009,"Rahul Patil","Java Developer","Job Portal",Hired,Joined,Chennai,2025-01-16,2025-01-26,2025-02-20,35,600000,850000
+CAND010,"Shreya Singh","ServiceNow ITSM Developer","Job Portal",Shortlisted,N/A,Pune,2025-01-04,NULL,NULL,NULL,520000,780000
+CAND011,"Ankit Tiwari","ServiceNow ITSM Developer",Referral,Applied,N/A,Chennai,2025-01-25,NULL,NULL,NULL,500000,750000
+CAND012,"Manisha Iyer","ServiceNow ITOM Developer",Referral,Hired,Joined,Hyderabad,2025-01-10,2025-01-20,2025-02-12,33,620000,880000
+CAND013,"Vikas Malhotra","ServiceNow CMDB Developer",LinkedIn,Offer,Declined,Bangalore,2025-01-13,2025-01-28,NULL,NULL,580000,820000
+CAND014,"Pooja Mishra","ServiceNow CSM Developer",Referral,Interview,N/A,Mumbai,2025-01-06,NULL,NULL,NULL,510000,770000
+CAND015,"Karan Yadav","ServiceNow Presales",LinkedIn,Applied,N/A,"Delhi NCR",2025-01-20,NULL,NULL,NULL,490000,730000
+CAND016,"Simran Kaur","ServiceNow BA",LinkedIn,Offer,Joined,Hyderabad,2025-01-09,2025-01-20,2025-02-08,30,560000,800000
+CAND017,"Nikhil Reddy","AWS Engineer",Referral,Interview,N/A,Pune,2025-01-18,NULL,NULL,NULL,710000,950000
+CAND018,"Anjali Pandey","Devops Engineer",LinkedIn,Shortlisted,N/A,Mumbai,2025-01-02,NULL,NULL,NULL,660000,900000
+CAND019,"Rajat Kapoor","Java Developer",Referral,Drop-off,Declined,Bangalore,2025-01-25,NULL,NULL,NULL,540000,780000
+CAND020,"Megha Jain","ServiceNow ITSM Developer",LinkedIn,Offer,Declined,Chennai,2025-01-19,2025-02-08,NULL,NULL,530000,790000
+CAND021,"Vivek Bansal","ServiceNow ITOM Developer","Job Portal",Interview,N/A,Hyderabad,2025-01-25,NULL,NULL,NULL,600000,850000
+CAND022,"Komal Arora","ServiceNow CMDB Developer",Referral,Applied,N/A,Pune,2025-01-27,NULL,NULL,NULL,580000,830000
+CAND023,"Ashish Soni","ServiceNow CSM Developer",LinkedIn,Hired,Joined,Bangalore,2025-01-05,2025-01-18,2025-02-20,46,640000,900000
+CAND024,"Jyoti Menon","ServiceNow Presales","Job Portal",Shortlisted,N/A,Mumbai,2025-01-11,NULL,NULL,NULL,500000,720000
+CAND025,"Mohit Chawla","ServiceNow BA",Referral,Applied,N/A,Pune,2025-01-14,NULL,NULL,NULL,520000,780000
+CAND026,"Ritika Bedi","AWS Engineer",LinkedIn,Offer,Declined,Chennai,2025-01-13,2025-01-29,NULL,NULL,720000,980000
+CAND027,"Akash Gupta","Devops Engineer","Job Portal",Applied,N/A,"Delhi NCR",2025-01-22,NULL,NULL,NULL,680000,940000
+CAND028,"Nisha Kapoor","Java Developer",Referral,Hired,Joined,Mumbai,2025-01-03,2025-01-18,2025-02-15,43,610000,870000
+CAND029,"Aditya Chauhan","ServiceNow ITSM Developer","Job Portal",Interview,N/A,Bangalore,2025-01-20,NULL,NULL,NULL,540000,800000
+CAND030,"Shalini Dubey","ServiceNow ITOM Developer",Referral,Shortlisted,N/A,Hyderabad,2025-01-04,NULL,NULL,NULL,600000,860000
+CAND031,"Pankaj Sethi","ServiceNow CMDB Developer",LinkedIn,Drop-off,Rejected,Chennai,2025-01-08,NULL,NULL,NULL,570000,810000
+CAND032,"Deepa Rawat","ServiceNow CSM Developer","Job Portal",Interview,N/A,Pune,2025-01-17,NULL,NULL,NULL,550000,790000
+CAND033,"Saurabh Gill","ServiceNow Presales",Referral,Applied,N/A,Mumbai,2025-01-18,NULL,NULL,NULL,520000,760000
+CAND034,"Ruchi Saxena","ServiceNow BA",LinkedIn,Offer,Declined,Bangalore,2025-01-12,2025-01-24,NULL,NULL,560000,820000
+CAND035,"Gaurav Khanna","AWS Engineer","Job Portal",Applied,N/A,Hyderabad,2025-01-02,NULL,NULL,NULL,730000,1000000
+CAND036,"Tanya Malhotra","Devops Engineer",Referral,Hired,Joined,Chennai,2025-01-09,2025-01-21,2025-02-09,31,690000,940000
+CAND037,"Arvind Joshi","Java Developer",LinkedIn,Shortlisted,N/A,"Delhi NCR",2025-01-23,NULL,NULL,NULL,610000,860000
+CAND038,"Ritika Agarwal","ServiceNow ITSM Developer",Referral,Interview,N/A,Mumbai,2025-01-26,NULL,NULL,NULL,540000,780000
+CAND039,"Hemant Yadav","ServiceNow ITOM Developer","Job Portal",Applied,N/A,Pune,2025-01-21,NULL,NULL,NULL,620000,880000
+CAND040,"Pallavi Kulkarni","ServiceNow CMDB Developer",LinkedIn,Offer,Declined,Bangalore,2025-01-05,2025-01-30,NULL,NULL,590000,850000
+CAND041,"Sanjay Desai","ServiceNow CSM Developer",Referral,Drop-off,Declined,Hyderabad,2025-01-11,NULL,NULL,NULL,550000,790000
+CAND042,"Shruti Singh","ServiceNow Presales","Job Portal",Interview,N/A,Chennai,2025-01-15,NULL,NULL,NULL,530000,770000
+CAND043,"Kapil Rana","ServiceNow BA",LinkedIn,Shortlisted,N/A,"Delhi NCR",2025-01-21,NULL,NULL,NULL,570000,810000
+CAND044,"Alok Das","AWS Engineer",Referral,Applied,N/A,Mumbai,2025-01-24,NULL,NULL,NULL,700000,950000
+CAND045,"Mansi Ghosh","Devops Engineer",LinkedIn,Offer,Joined,Pune,2025-01-03,2025-01-15,2025-02-02,30,690000,940000
+CAND046,"Prateek Jain","Java Developer","Job Portal",Applied,N/A,Bangalore,2025-01-10,NULL,NULL,NULL,620000,880000
+CAND047,"Khushboo Bhatia","ServiceNow ITSM Developer",Referral,Interview,N/A,Hyderabad,2025-01-18,NULL,NULL,NULL,560000,800000
+CAND048,"Naveen Kumar","ServiceNow ITOM Developer",LinkedIn,Shortlisted,N/A,Chennai,2025-01-02,NULL,NULL,NULL,610000,870000
+CAND049,"Rashmi Menon","ServiceNow CMDB Developer","Job Portal",Applied,N/A,Mumbai,2025-01-16,NULL,NULL,NULL,590000,840000
+CAND050,"Vinay Sharma","ServiceNow CSM Developer",Referral,Hired,Joined,Pune,2025-01-04,2025-01-19,2025-02-06,33,630000,890000
+CAND051,"Rajeev Menon","ServiceNow Presales",LinkedIn,Drop-off,Rejected,Bangalore,2025-01-08,NULL,NULL,NULL,520000,780000
+CAND052,"Anita Kapoor","ServiceNow BA","Job Portal",Applied,N/A,Hyderabad,2025-01-07,NULL,NULL,NULL,540000,820000
+CAND053,"Suresh Pillai","AWS Engineer",Referral,Shortlisted,N/A,Chennai,2025-01-09,NULL,NULL,NULL,710000,980000
+CAND054,"Monika Rathi","Devops Engineer","Job Portal",Interview,N/A,Mumbai,2025-01-27,NULL,NULL,NULL,680000,950000
+CAND055,"Aakash Nanda","Java Developer",LinkedIn,Applied,N/A,Pune,2025-01-14,NULL,NULL,NULL,590000,850000
+CAND056,"Payal Agarwal","ServiceNow ITSM Developer",Referral,Offer,Declined,Bangalore,2025-01-17,2025-02-06,NULL,NULL,550000,800000
+CAND057,"Vivek Rao","ServiceNow ITOM Developer","Job Portal",Applied,N/A,Hyderabad,2025-01-12,NULL,NULL,NULL,610000,870000
+CAND058,"Snehal Deshpande","ServiceNow CMDB Developer",LinkedIn,Hired,Joined,Chennai,2025-01-03,2025-01-22,2025-02-15,43,600000,860000
+CAND059,"Rohit Bhatia","ServiceNow CSM Developer",Referral,Interview,N/A,Mumbai,2025-01-21,NULL,NULL,NULL,540000,790000
+CAND060,"Ishita Sharma","ServiceNow Presales","Job Portal",Shortlisted,N/A,Pune,2025-01-10,NULL,NULL,NULL,510000,760000
+CAND061,"Naveen Joshi","ServiceNow BA",LinkedIn,Applied,N/A,Bangalore,2025-01-11,NULL,NULL,NULL,570000,830000
+CAND062,"Deepak Reddy","AWS Engineer","Job Portal",Offer,Declined,Hyderabad,2025-01-02,2025-01-21,NULL,NULL,720000,990000
+CAND063,"Swati Khanna","Devops Engineer",Referral,Interview,N/A,Chennai,2025-01-26,NULL,NULL,NULL,650000,910000
+CAND064,"Harshita Ghosh","Java Developer",LinkedIn,Shortlisted,N/A,Mumbai,2025-01-26,NULL,NULL,NULL,600000,870000
+CAND065,"Siddharth Malhotra","ServiceNow ITSM Developer","Job Portal",Applied,N/A,Pune,2025-01-20,NULL,NULL,NULL,580000,830000
+CAND066,"Pallavi Yadav","ServiceNow ITOM Developer",LinkedIn,Drop-off,Declined,Bangalore,2025-01-27,NULL,NULL,NULL,600000,860000
+CAND067,"Farhan Ali","ServiceNow CMDB Developer",Referral,Interview,N/A,Hyderabad,2025-01-03,NULL,NULL,NULL,560000,800000
+CAND068,"Shweta Nair","ServiceNow CSM Developer","Job Portal",Shortlisted,N/A,Chennai,2025-01-23,NULL,NULL,NULL,590000,850000
+CAND069,"Anurag Singh","ServiceNow Presales",LinkedIn,Hired,Joined,Mumbai,2025-01-20,2025-02-04,2025-02-27,38,640000,900000
+CAND070,"Rekha Pillai","ServiceNow BA","Job Portal",Offer,Declined,Pune,2025-01-11,2025-01-25,NULL,NULL,550000,800000
+CAND071,"Ramesh Patel","AWS Engineer",Referral,Applied,N/A,Bangalore,2025-01-06,NULL,NULL,NULL,710000,970000
+CAND072,"Aarti Kulkarni","Devops Engineer",LinkedIn,Interview,N/A,Hyderabad,2025-01-03,NULL,NULL,NULL,670000,930000
+CAND073,"Mohan Lal","Java Developer","Job Portal",Shortlisted,N/A,Chennai,2025-01-28,NULL,NULL,NULL,600000,870000
+CAND074,"Sunita Mehta","ServiceNow ITSM Developer",Referral,Applied,N/A,Mumbai,2025-01-05,NULL,NULL,NULL,530000,780000
+CAND075,"Ajay Rawat","ServiceNow ITOM Developer","Job Portal",Hired,Joined,Pune,2025-01-17,2025-02-05,2025-02-22,36,620000,890000
+CAND076,"Ankita Sharma","ServiceNow CMDB Developer",LinkedIn,Shortlisted,N/A,Bangalore,2025-01-08,NULL,NULL,NULL,580000,840000
+CAND077,"Yogesh Jain","ServiceNow CSM Developer",Referral,Applied,N/A,Hyderabad,2025-01-22,NULL,NULL,NULL,560000,820000
+CAND078,"Kanika Gupta","ServiceNow Presales","Job Portal",Interview,N/A,Chennai,2025-01-27,NULL,NULL,NULL,520000,770000
+CAND079,"Ravi Shankar","ServiceNow BA",LinkedIn,Shortlisted,N/A,Mumbai,2025-01-24,NULL,NULL,NULL,590000,850000
+CAND080,"Geeta Desai","AWS Engineer",Referral,Drop-off,Rejected,Pune,2025-01-21,NULL,NULL,NULL,700000,960000
+CAND081,"Adarsh Sinha","Devops Engineer","Job Portal",Applied,N/A,Bangalore,2025-01-14,NULL,NULL,NULL,650000,920000
+CAND082,"Meenakshi Rao","Java Developer",LinkedIn,Hired,Joined,Hyderabad,2025-01-28,2025-02-10,2025-02-28,31,620000,880000
+CAND083,"Abhinav Das","ServiceNow ITSM Developer",Referral,Interview,N/A,Chennai,2025-01-02,NULL,NULL,NULL,560000,820000
+CAND084,"Neeraj Chandra","ServiceNow ITOM Developer","Job Portal",Shortlisted,N/A,Mumbai,2025-01-09,NULL,NULL,NULL,600000,860000
+CAND085,"Isha Bhat","ServiceNow CMDB Developer",LinkedIn,Applied,N/A,Pune,2025-01-06,NULL,NULL,NULL,590000,850000
+CAND086,"Raj Kumar","ServiceNow CSM Developer",Referral,Offer,Declined,Bangalore,2025-01-07,2025-01-22,NULL,NULL,570000,830000
+CAND087,"Nidhi Ahuja","ServiceNow Presales","Job Portal",Applied,N/A,Hyderabad,2025-01-16,NULL,NULL,NULL,520000,770000
+CAND088,"Manoj Shetty","ServiceNow BA",LinkedIn,Interview,N/A,Chennai,2025-01-20,NULL,NULL,NULL,560000,810000
+CAND089,"Reema Kaur","AWS Engineer",Referral,Shortlisted,N/A,Mumbai,2025-01-03,NULL,NULL,NULL,720000,980000
+CAND090,"Puneet Saxena","Devops Engineer","Job Portal",Applied,N/A,Pune,2025-01-12,NULL,NULL,NULL,670000,940000
+CAND091,"Alisha Khan","Java Developer",LinkedIn,Offer,Declined,Bangalore,2025-01-26,2025-02-14,NULL,NULL,610000,880000
+CAND092,"Rohit Jain","ServiceNow ITSM Developer",Referral,Hired,Joined,Hyderabad,2025-01-13,2025-01-30,2025-02-25,43,590000,860000
+CAND093,"Tanvi Reddy","ServiceNow ITOM Developer","Job Portal",Interview,N/A,Chennai,2025-01-24,NULL,NULL,NULL,600000,870000
+CAND094,"Varun Kapoor","ServiceNow CMDB Developer",LinkedIn,Shortlisted,N/A,Mumbai,2025-01-18,NULL,NULL,NULL,580000,850000
+CAND095,"Preeti Deshmukh","ServiceNow CSM Developer",Referral,Applied,N/A,Pune,2025-01-27,NULL,NULL,NULL,550000,810000
+CAND096,"Arun Mishra","ServiceNow Presales","Job Portal",Drop-off,Rejected,Bangalore,2025-01-24,NULL,NULL,NULL,530000,780000
+CAND097,"Kavita Iyer","ServiceNow BA",LinkedIn,Applied,N/A,Hyderabad,2025-01-02,NULL,NULL,NULL,560000,820000
+CAND098,"Raghav Sharma","AWS Engineer",Referral,Shortlisted,N/A,Chennai,2025-01-15,NULL,NULL,NULL,730000,1000000
+CAND099,"Tina Mehra","Devops Engineer","Job Portal",Interview,N/A,Mumbai,2025-01-11,NULL,NULL,NULL,670000,940000
+CAND100,"Sahil Bansal","Java Developer",LinkedIn,Applied,N/A,Pune,2025-01-23,NULL,NULL,NULL,600000,870000
+CAND101,"Arif Sheikh","ServiceNow ITSM Developer",Referral,Hired,Joined,Bangalore,2025-01-06,2025-01-20,2025-02-10,35,580000,850000
+CAND102,"Megha Kapoor","ServiceNow ITOM Developer","Job Portal",Offer,Declined,Mumbai,2025-01-05,2025-01-21,NULL,NULL,620000,880000
+CAND103,"Nitin Verma","ServiceNow CMDB Developer",LinkedIn,Applied,N/A,Hyderabad,2025-01-09,NULL,NULL,NULL,600000,870000
+CAND104,"Ayesha Siddiqui","ServiceNow CSM Developer",Referral,Shortlisted,N/A,Chennai,2025-01-28,NULL,NULL,NULL,550000,810000
+CAND105,"Harish Nair","ServiceNow Presales","Job Portal",Interview,N/A,Pune,2025-01-15,NULL,NULL,NULL,520000,780000
+CAND106,"Reena George","ServiceNow BA",LinkedIn,Applied,N/A,Mumbai,2025-01-02,NULL,NULL,NULL,560000,820000
+CAND107,"Shoaib Khan","AWS Engineer",Referral,Offer,Declined,Bangalore,2025-01-19,2025-02-01,NULL,NULL,710000,970000
+CAND108,"Shalini Iyer","Devops Engineer","Job Portal",Applied,N/A,Hyderabad,2025-01-27,NULL,NULL,NULL,670000,940000
+CAND109,"Rakesh Shukla","Java Developer",LinkedIn,Shortlisted,N/A,Chennai,2025-01-18,NULL,NULL,NULL,600000,860000
+CAND110,"Nidhi Desai","ServiceNow ITSM Developer","Job Portal",Applied,N/A,Pune,2025-01-08,NULL,NULL,NULL,580000,820000
+CAND111,"Sohail Ansari","ServiceNow ITOM Developer",Referral,Hired,Joined,Mumbai,2025-01-21,2025-02-10,2025-03-01,39,620000,890000
+CAND112,"Kiran Rao","ServiceNow CMDB Developer",LinkedIn,Interview,N/A,Bangalore,2025-01-24,NULL,NULL,NULL,570000,830000
+CAND113,"Rashmi Singh","ServiceNow CSM Developer","Job Portal",Offer,Declined,Hyderabad,2025-01-21,2025-02-05,NULL,NULL,540000,800000
+CAND114,"Imtiaz Khan","ServiceNow Presales",Referral,Applied,N/A,Chennai,2025-01-12,NULL,NULL,NULL,500000,750000
+CAND115,"Preeti Kaul","ServiceNow BA",LinkedIn,Shortlisted,N/A,Pune,2025-01-04,NULL,NULL,NULL,560000,820000
+CAND116,"Saurav Malhotra","AWS Engineer","Job Portal",Interview,N/A,Mumbai,2025-01-27,NULL,NULL,NULL,700000,970000
+CAND117,"Maya Rani","Devops Engineer",Referral,Applied,N/A,Bangalore,2025-01-06,NULL,NULL,NULL,650000,920000
+CAND118,"Ankit Sood","Java Developer",LinkedIn,Hired,Joined,Hyderabad,2025-01-11,2025-01-24,2025-02-15,35,600000,870000
+CAND119,"Pallavi Joshi","ServiceNow ITSM Developer","Job Portal",Shortlisted,N/A,Chennai,2025-01-02,NULL,NULL,NULL,540000,800000
+CAND120,"Rajesh Kumar","ServiceNow ITOM Developer",Referral,Applied,N/A,Pune,2025-01-14,NULL,NULL,NULL,580000,850000
+CAND121,"Divya Kapoor","ServiceNow CMDB Developer",LinkedIn,Offer,Joined,Bangalore,2025-01-07,2025-01-22,2025-02-10,34,600000,860000
+CAND122,"Anuradha Sen","ServiceNow CSM Developer","Job Portal",Applied,N/A,Hyderabad,2025-01-16,NULL,NULL,NULL,550000,800000
+CAND123,"Yusuf Alam","ServiceNow Presales",Referral,Shortlisted,N/A,Chennai,2025-01-20,NULL,NULL,NULL,520000,770000
+CAND124,"Kiran Sharma","ServiceNow BA",LinkedIn,Applied,N/A,Mumbai,2025-01-10,NULL,NULL,NULL,570000,830000
+CAND125,"Neha Saxena","AWS Engineer","Job Portal",Drop-off,Rejected,Pune,2025-01-08,NULL,NULL,NULL,700000,960000
+CAND126,"Mohd Zubair","Devops Engineer",Referral,Interview,N/A,Bangalore,2025-01-13,NULL,NULL,NULL,660000,930000
+CAND127,"Ritika Singh","Java Developer",LinkedIn,Shortlisted,N/A,Hyderabad,2025-01-15,NULL,NULL,NULL,590000,860000
+CAND128,"Adil Khan","ServiceNow ITSM Developer","Job Portal",Applied,N/A,Chennai,2025-01-26,NULL,NULL,NULL,530000,780000
+CAND129,"Aarti Sharma","ServiceNow ITOM Developer",LinkedIn,Hired,Joined,Mumbai,2025-01-11,2025-01-29,2025-02-20,40,620000,880000
+CAND130,"Deepak Chauhan","ServiceNow CMDB Developer",Referral,Interview,N/A,Pune,2025-01-14,NULL,NULL,NULL,600000,870000
+CAND131,"Sheetal Verma","ServiceNow CSM Developer","Job Portal",Shortlisted,N/A,Bangalore,2025-01-04,NULL,NULL,NULL,570000,830000
+CAND132,"Ashok Das","ServiceNow Presales",LinkedIn,Applied,N/A,Hyderabad,2025-01-09,NULL,NULL,NULL,520000,780000
+CAND133,"Shabnam Ali","ServiceNow BA",Referral,Offer,Declined,Chennai,2025-01-24,2025-02-13,NULL,NULL,550000,820000
+CAND134,"Suraj Patil","AWS Engineer","Job Portal",Applied,N/A,Mumbai,2025-01-20,NULL,NULL,NULL,700000,980000
+CAND135,"Karishma Singh","Devops Engineer",LinkedIn,Hired,Joined,Pune,2025-01-07,2025-01-27,2025-02-17,41,680000,950000
+CAND136,"Vivek Sharma","Java Developer",Referral,Shortlisted,N/A,Bangalore,2025-01-21,NULL,NULL,NULL,600000,870000
+CAND137,"Anuradha Menon","ServiceNow ITSM Developer","Job Portal",Interview,N/A,Hyderabad,2025-01-11,NULL,NULL,NULL,560000,820000
+CAND138,"Imran Shaikh","ServiceNow ITOM Developer",LinkedIn,Shortlisted,N/A,Chennai,2025-01-02,NULL,NULL,NULL,610000,880000
+CAND139,"Pooja Rani","ServiceNow CMDB Developer",Referral,Applied,N/A,Mumbai,2025-01-08,NULL,NULL,NULL,590000,850000
+CAND140,"Javed Khan","ServiceNow CSM Developer","Job Portal",Offer,Declined,Bangalore,2025-01-13,2025-01-28,NULL,NULL,560000,810000
+CAND141,"Amrita Sinha","ServiceNow Presales",LinkedIn,Hired,Joined,Hyderabad,2025-01-17,2025-02-07,2025-02-25,39,540000,800000
+CAND142,"Aman Khan","ServiceNow BA",Referral,Shortlisted,N/A,Chennai,2025-01-03,NULL,NULL,NULL,570000,840000
+CAND143,"Smita Roy","AWS Engineer","Job Portal",Applied,N/A,Mumbai,2025-01-25,NULL,NULL,NULL,710000,980000
+CAND144,"Anil Sharma","Devops Engineer",LinkedIn,Interview,N/A,Pune,2025-01-12,NULL,NULL,NULL,650000,910000
+CAND145,"Priyanka Jha","Java Developer",Referral,Shortlisted,N/A,Bangalore,2025-01-19,NULL,NULL,NULL,600000,870000
+CAND146,"Sameer Hussain","ServiceNow ITSM Developer","Job Portal",Applied,N/A,Hyderabad,2025-01-26,NULL,NULL,NULL,540000,800000
+CAND147,"Kavya Nair","ServiceNow ITOM Developer",Referral,Offer,Joined,Chennai,2025-01-05,2025-01-22,2025-02-14,40,620000,880000
+CAND148,"Ravi Menon","ServiceNow CMDB Developer",LinkedIn,Shortlisted,N/A,Mumbai,2025-01-15,NULL,NULL,NULL,590000,860000
+CAND149,"Fatima Ansari","ServiceNow CSM Developer","Job Portal",Interview,N/A,Pune,2025-01-11,NULL,NULL,NULL,550000,810000
+CAND150,"Alok Pandey","ServiceNow Presales",Referral,Applied,N/A,Bangalore,2025-01-21,NULL,NULL,NULL,520000,770000
